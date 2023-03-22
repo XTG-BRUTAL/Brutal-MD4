@@ -24,7 +24,7 @@ global.location = "India" //ur location
 //bot bomdy 
 global.ownernomer = "919101765679" //ur number
 global.premium = ['919101765679'] //ur premium number
-global.botname = 'Brutal-MD2' //ur bot name
+global.botname = 'Brutal-MD4' //ur bot name
 global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/exe4us" //ur website to be displayed
 global.botscript = 'https://github.com/brutalexe' //script link
